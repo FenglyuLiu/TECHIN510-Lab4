@@ -2,14 +2,13 @@
 
 ## Introduction
 
-This project demonstrates how to use Python for accessing and interacting with various web resources. It includes examples of web scraping, API interactions, and data processing.
+This project demonstrates how to use Python for accessing and interacting with various web resources. It includes examples of web scraping and data processing.
 
 
 
 ## Features
 
 - **Web Scraping**: Code to scrape data from dynamically generated websites.
-- **API Usage**: Demonstrates how to interact with RESTful APIs for data retrieval and submission.
 - **Data Processing**: Examples of cleaning and processing the retrieved data for further analysis.
 
 
@@ -35,13 +34,12 @@ Open the terminal and run the following commands:
 
 
 ## What's included
-
-
+- **app.py**: The main Python script with Streamlit code.
+- **requirements.txt**: A file listing the project's dependencies.
 
 
 
 ## What I Learned
 
 - Efficient ways to interact with and scrape data from web pages.
-- Best practices for structuring API requests and handling responses.
 - Techniques for data cleaning and preprocessing using Pandas.
